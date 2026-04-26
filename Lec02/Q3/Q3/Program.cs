@@ -30,5 +30,7 @@ class Program
         {
             Console.Write("Failed");
         }
+
+        Console.readline();
     }
 }
