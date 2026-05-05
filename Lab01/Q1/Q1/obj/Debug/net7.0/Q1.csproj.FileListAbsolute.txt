@@ -1,0 +1,15 @@
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.csproj.AssemblyReference.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.AssemblyInfoInputs.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.AssemblyInfo.cs
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.csproj.CoreCompileInputs.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/bin/Debug/net7.0/Q1
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/bin/Debug/net7.0/Q1.deps.json
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/bin/Debug/net7.0/Q1.runtimeconfig.json
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/bin/Debug/net7.0/Q1.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/bin/Debug/net7.0/Q1.pdb
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/refint/Q1.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.pdb
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/Q1.genruntimeconfig.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q1/Q1/obj/Debug/net7.0/ref/Q1.dll

@@ -1,0 +1,15 @@
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/bin/Debug/net7.0/Q3
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/bin/Debug/net7.0/Q3.deps.json
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/bin/Debug/net7.0/Q3.runtimeconfig.json
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/bin/Debug/net7.0/Q3.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/bin/Debug/net7.0/Q3.pdb
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.csproj.AssemblyReference.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.AssemblyInfoInputs.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.AssemblyInfo.cs
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.csproj.CoreCompileInputs.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/refint/Q3.dll
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.pdb
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/Q3.genruntimeconfig.cache
+/Users/madhuka_fernando/Lec_tut_lab/1.2/C#/OOP with C#/Lab01/Q3/Q3/obj/Debug/net7.0/ref/Q3.dll
