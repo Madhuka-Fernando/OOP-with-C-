@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Madhuka Fernando\\Desktop\\OOP-with-C--main\\Lec07\\Q1\\",
+  "WorkspaceRootPath": "E:\\OOP-with-C--main\\Lec07\\Q1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05AE1139-69EF-4A2A-91D4-F65EBFAC763C}|Q1\\Q1.csproj|c:\\users\\madhuka fernando\\desktop\\oop-with-c--main\\lec07\\q1\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{05AE1139-69EF-4A2A-91D4-F65EBFAC763C}|Q1\\Q1.csproj|e:\\oop-with-c--main\\lec07\\q1\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05AE1139-69EF-4A2A-91D4-F65EBFAC763C}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Madhuka Fernando\\Desktop\\OOP-with-C--main\\Lec07\\Q1\\Q1\\Program.cs",
+              "DocumentMoniker": "E:\\OOP-with-C--main\\Lec07\\Q1\\Q1\\Program.cs",
               "RelativeDocumentMoniker": "Q1\\Program.cs",
-              "ToolTip": "C:\\Users\\Madhuka Fernando\\Desktop\\OOP-with-C--main\\Lec07\\Q1\\Q1\\Program.cs",
-              "RelativeToolTip": "Q1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\OOP-with-C--main\\Lec07\\Q1\\Q1\\Program.cs*",
+              "RelativeToolTip": "Q1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:48:17.81Z",
               "EditorCaption": ""

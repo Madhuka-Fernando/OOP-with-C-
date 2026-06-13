@@ -1,0 +1,10 @@
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.exe.config
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.exe
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\bin\Debug\WindowsFormTest.pdb
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.AssemblyReference.cache
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.Form1.resources
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.Properties.Resources.resources
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.GenerateResource.cache
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.csproj.CoreCompileInputs.cache
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.exe
+E:\OOP-with-C--main\Lec08\WindowsFormTest\WindowsFormTest\obj\Debug\WindowsFormTest.pdb
